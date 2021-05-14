@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "restaurants"
+  "defaultProject": "restaurants",
+  "cli": {
+    "analytics": false
+  }
 }

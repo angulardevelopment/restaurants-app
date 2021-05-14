@@ -1,3 +1,28 @@
+# About
+
+Develop a pseudo Front End Application in Angular  which would let the users list and browse Noodles conveniently Use of Web API to fetch.
+
+[Plus Point] (intermediate)
+— A feature to click on a Restaurant to open a new page showing the details of the Restaurant along with the given image. Page URL must be of the format “/:id” where id is the id of the recipe. Example 0,1,2,3 (Router)
+- Implement functionality to list Items as Cards.
+— Implement Search by Brand.
+— Implement Sort by Stars.
+— Lazy loading with placeholder for images and loaders.
+
+— Deploy your Frontend App on any Static Website Hosting Service. (This deployment link must be active for at least 2 weeks from Submission Date.)
+— Provide the Deployment URL along with Source Code in a .txt file
+ — Submit Screenshot, Source code & Instructions.
+ - Compress all Source Code and Deployed link in a Zip File & Upload
+
+[Guide]
+— Top Ramen API: https://s3-ap-southeast-1.amazonaws.com/he-public-data/TopRamen8d30951.json
+    Note: Use this API to Fetch Restaurant details.
+— Noodle Image API: https://s3-ap-southeast-1.amazonaws.com/he-public-data/noodlesec253ad.json
+    Note: Use this API to Fetch Noodle Images.
+ 
+
+
+
 # Restaurants
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
